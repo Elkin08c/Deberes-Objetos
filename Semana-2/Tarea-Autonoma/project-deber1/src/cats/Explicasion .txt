@@ -1,0 +1,15 @@
+
+Este código es un controlador escrito en TypeScript utilizando el framework NestJS, diseñado específicamente para manejar solicitudes relacionadas con gatos. Aquí tienes una explicación parafraseada:
+
+El controlador importa decoradores y módulos necesarios desde @nestjs/common. Estos decoradores se utilizan para definir el comportamiento de los métodos del controlador. La clase CatsController es 
+decorada con @Controller('cats'), lo que indica que este controlador maneja solicitudes 
+con la ruta base /cats. Dentro de la clase, hay un método llamado remove, decorado con @Delete(':id'), 
+lo que significa que es un controlador para el método HTTP DELETE y espera un parámetro en la URL llamado id. 
+El decorador @HttpCode(204) establece el código de estado HTTP de la respuesta en 204 (Sin contenido) al eliminar exitosamente. 
+El decorador @Param('id') extrae el parámetro id de la ruta URL y lo asigna al parámetro id del método. 
+El cuerpo del método devuelve una cadena que indica que se eliminará un gato con el id especificado. 
+este controlador está diseñado para manejar solicitudes DELETE a /cats/:id, donde :id es el identificador del gato que se eliminará. 
+Una vez eliminado correctamente, devuelve un código de estado 204.
+
+VIDEO YOUTUBE
+https://youtu.be/MOWk7PMv7pU
