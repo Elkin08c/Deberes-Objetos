@@ -1,0 +1,19 @@
+
+
+# PRIMER EJERCICIO
+
+Empezamos definiendo una interfaz Planets y una función age que calcula la edad de una persona en años terrestres dados los segundos transcurridos y el planeta en el que ha vivido esos segundos.
+Define una interfaz llamada Planets que especifica que los objetos que se ajusten a esta interfaz deben tener claves de tipo string y valores de tipo number.
+Esto permite definir un conjunto de proporciones (relación de años terrestres a segundos en cada planeta) utilizando nombres de planetas como claves.
+Define un objeto RATIOS que asigna los nombres de diferentes planetas a los valores que representan la proporción de años terrestres equivalentes a un segundo en ese planeta.
+Por ejemplo, en Mercurio, 1 año terrestre equivale a aproximadamente 0.2408467 segundos en Mercurio.
+
+
+
+# SEGUNDO EJERCICIO 
+
+En el segundo ejercicio  se declaran las propiedades de la clase que representan los atributos de un personaje de D&D. Cada atributo tiene un tipo number, lo que indica que contendrá valores numéricos.
+Este es el constructor de la clase. El constructor es un método especial que se ejecuta automáticamente cuando se crea una instancia de la clase.
+En el constructor, se inicializan los atributos del personaje llamando al método estático generateAbilityScore() para generar valores de habilidad para cada atributo. Aquí, parece que todos los atributos se están estableciendo en un valor fijo de 4, 
+lo cual es poco común en el juego, ya que normalmente los valores de habilidad son generados mediante tiradas de dados y ajustes. 
+Esto podría ser una implementación temporal para simplificar el código.
