@@ -27,3 +27,5 @@ export function decodedResistorValue([band1, band2, band3]: Color[]): string {
     const [divisor, prefix] = ohms.find(([divisor]) => num >= divisor) ?? [1, ""];
     return `${num / divisor} ${prefix}ohms`;
 }
+
+decodedResistorValue(["black","black","black"])
