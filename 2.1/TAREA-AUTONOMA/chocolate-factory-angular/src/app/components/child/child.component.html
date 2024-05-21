@@ -1,0 +1,8 @@
+<!-- child.component.html -->
+<div style="padding: 20px;">
+  <nz-card nzTitle="Componente del Oompa Loompa">
+    <p>Mensaje recibido del jefe: {{ message }}</p>
+    <button nz-button nzType="primary" (click)="sendMessageToBoss()">Enviar Mensaje al Jefe</button>
+    <ng-content></ng-content>
+  </nz-card>
+</div>

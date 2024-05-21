@@ -1,0 +1,8 @@
+<div style="padding: 20px;">
+  <nz-card nzTitle="Fábrica de Willy Wonka">
+    <p>Mensaje del jefe: {{ parentMessage }}</p>
+      <div #projectedContent>Contenido proyectado desde el jefe</div>
+    <button nz-button nzType="primary" (click)="sendMessageToChild()">Ordenar a los Oompa Loompas</button>
+    <p>Mensaje del Oompa Loompa: {{ childMessage }}</p>
+  </nz-card>
+</div>
