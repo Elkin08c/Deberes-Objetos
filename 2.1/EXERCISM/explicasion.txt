@@ -1,0 +1,13 @@
+Explicasion Darts
+El código que has proporcionado es una función en JavaScript que calcula una puntuación basada en la distancia de un punto 
+(𝑥,𝑦)
+(x,y) desde el origen 
+(0,0)
+(0,0). La puntuación depende de qué tan lejos está el punto del origen en un sistema de coordenadas cartesianas.
+
+
+Explicasion Pangram
+El código que has proporcionado es una función en JavaScript que determina si un párrafo es un pangrama. 
+Un pangrama es una frase que contiene todas las letras del alfabeto al menos una vezexport
+ function score(x: number, y: number): number {: Esta línea define una función llamada score que toma dos argumentos x y y, 
+ ambos de tipo number, y devuelve un valor numérico (number). La palabra export indica que esta función se puede exportar y usar en otros módulos.
