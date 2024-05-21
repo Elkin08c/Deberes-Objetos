@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\POO\\Deberes-Objetos\\Semana-1\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\POO\\Deberes-Objetos\\1.1-Intro\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\POO\\Deberes-Objetos\\Semana-1\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\POO\\Deberes-Objetos\\1.1-Intro\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\POO\\Deberes-Objetos\\Semana-1\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\POO\\Deberes-Objetos\\1.1-Intro\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\POO\\Deberes-Objetos\\Semana-1\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\POO\\Deberes-Objetos\\1.1-Intro\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\POO\\Deberes-Objetos\\Semana-1\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\POO\\Deberes-Objetos\\1.1-Intro\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
