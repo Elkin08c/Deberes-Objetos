@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\POO\\Deberes-Objetos\\1.1-Intro\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Documentos\\Deberes-Objetos\\1.1-Intro\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\POO\\Deberes-Objetos\\1.1-Intro\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\USER\\OneDrive\\Documentos\\Deberes-Objetos\\1.1-Intro\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\POO\\Deberes-Objetos\\1.1-Intro\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\USER\\OneDrive\\Documentos\\Deberes-Objetos\\1.1-Intro\\TAREAAUTONOMA\\.NET\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
