@@ -10,5 +10,5 @@ export const hey = (input: string): string => {
     if (isShout) return "Whoa, chill out!"
     if (isQuestion) return "Sure."
     return "Whatever."
-  }
+}
 
