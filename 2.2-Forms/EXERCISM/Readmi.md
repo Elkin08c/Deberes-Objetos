@@ -8,7 +8,7 @@ Liberar todos los nombres utilizados cuando sea necesario.
 
 LINK DEL VIDEO:
 
-https://youtu.be/zYOw2nAYTP8
+https://youtu.becd /zYOw2nAYTP8
 
 EXPLICACION-SCHOOL
 
